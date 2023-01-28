@@ -32,7 +32,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
-
+![Alt text](images/out.png)
 
 ## Result:
 
